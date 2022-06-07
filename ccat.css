@@ -1,0 +1,19 @@
+body{
+    background-color:khaki
+}
+
+#container {
+    width: 700px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left : auto;
+}
+
+#main{
+    width:700px
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+}
